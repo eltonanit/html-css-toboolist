@@ -47,3 +47,27 @@ header {
 
 }
 
+.button{
+
+    border-radius: 8%;
+    color: white;
+    width: auto;
+    height: 30px;
+     font-size: 11px;
+     padding: 10px;
+     padding-bottom: 5px;
+     
+}
+
+.b-blu{
+border-color: #47adf1;
+    background-color: #47adf1;
+
+}
+.b-white{
+    background-color: white;
+    color:#d0d5d9;
+    border-color: #d0d5d9;
+     
+
+}
